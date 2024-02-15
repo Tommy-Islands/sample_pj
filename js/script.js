@@ -63,9 +63,5 @@ img.addEventListener('click', createIcon);
 // ウィンドウがリサイズされたらアイコンを再描画
 window.addEventListener('resize', drawIcons);
 
-function sum(){
-  140000 + 27900 + 16149 + 18000 + 50000
-  }
-console.log(sun());
 
 
