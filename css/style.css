@@ -1,0 +1,27 @@
+.app_head{
+  width: 100%;
+  background-color: aqua;
+  padding: 8px 0;
+  text-align: center;
+}
+.cnt_area{
+  width: 100%;
+  text-align: center;
+  padding: 24px 0;
+}
+.map_img {
+  max-width: 800px;
+  position: relative;
+  padding: 8px;
+  background-color: #ccc;
+  margin: 0 auto;
+}
+.map_img img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.map_img .icon {
+  width: 30px;
+  height: 30px;
+}
